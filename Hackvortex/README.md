@@ -1,6 +1,6 @@
-# HackVortex: Comprehensive Pregnancy Companion App
+# Garbh: Comprehensive Pregnancy Companion App
 
-HackVortex is an advanced pregnancy companion application built with Flutter that combines AI-powered features, personalized tracking, and health monitoring to support expectant mothers throughout their pregnancy journey.
+Garbh is an advanced pregnancy companion application built with Flutter that combines AI-powered features, personalized tracking, and health monitoring to support expectant mothers throughout their pregnancy journey.
 
 ## Features
 

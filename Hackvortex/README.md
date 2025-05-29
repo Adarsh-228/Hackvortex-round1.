@@ -52,16 +52,13 @@ Garbh is an advanced pregnancy companion application built with Flutter that com
 
 1. **Installation**
    ```bash
-   # Clone the repository
-   git clone [your-repository-url]
+
+   git clone [Hackvortex-round1]
    
-   # Navigate to the project directory
    cd hackvortex
    
-   # Install dependencies
    flutter pub get
    
-   # Run the application
    flutter run
    ```
 
